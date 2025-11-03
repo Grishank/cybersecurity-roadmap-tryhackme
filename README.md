@@ -5,6 +5,8 @@ My journey and notes from TryHackMe modules like Offensive Intro, Defensive Intr
 ---
 
 ## Offensive Security Intro (Completed ✅)
+![Offensive Intro Badge](https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/offensive-intro-badge.png?raw=true)
+
 
 **Platform:** TryHackMe  
 **Date Completed:** November 3, 2025  
