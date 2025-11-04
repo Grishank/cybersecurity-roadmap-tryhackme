@@ -29,7 +29,11 @@ Here’s my reflection on this module:
 ---
 
 ## 🛡️ Defensive Security Intro (Completed ✅)
-![Defensive Intro Proof](https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/defensive-intro-proof.png?raw=true)
+
+<p align="center">
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/tryhackme-hero.png?raw=true" alt="TryHackMe Defensive Security Intro" width="700"/>
+</p>
+
 
 **Platform:** TryHackMe  
 **Date Completed:** November 4, 2025  
