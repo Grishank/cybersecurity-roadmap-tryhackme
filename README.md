@@ -59,3 +59,32 @@ Here’s my reflection on this module:
 Here’s my reflection on this module:  
 [LinkedIn Post Link — Coming Soon 🔜]
 
+---
+
+## 💼 Careers in Cyber (Completed ✅)
+
+<p align="center">
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/careers-in-cyber.png?raw=true" alt="Careers in Cyber - TryHackMe Proof" width="700"/>
+</p>
+
+**Platform:** TryHackMe  
+**Date Completed:** November 5, 2025  
+**Room Link:** [Careers in Cyber](https://tryhackme.com/room/careersincyber)  
+**Status:** ✅ Completed  
+
+### 🧠 What I Learned
+- Explored different **career paths** within cybersecurity — from analysis to engineering to response.  
+- Learned how **Security Analysts** handle alerts, logs, and threat identification.  
+- Understood the role of a **Security Engineer** in building and maintaining secure systems.  
+- Studied how **Incident Responders** react to and contain active breaches.  
+- Discovered what **Digital Forensics Examiners** do to trace attacks and preserve evidence.  
+- Learned about **Malware Analysts** who reverse-engineer malicious code.  
+- Explored the work of **Penetration Testers** who identify vulnerabilities before attackers can exploit them.
+
+### ⚙️ Key Takeaways
+> “Cybersecurity isn’t one job — it’s a network of specialists working together to secure systems.”
+
+---
+
+
+
