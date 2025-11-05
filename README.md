@@ -63,10 +63,6 @@ Here’s my reflection on this module:
 
 ## 💼 Careers in Cyber (Completed ✅)
 
-<p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/careers-in-cyber.png?raw=true" alt="Careers in Cyber - TryHackMe Proof" width="700"/>
-</p>
-
 **Platform:** TryHackMe  
 **Date Completed:** November 5, 2025  
 **Room Link:** [Careers in Cyber](https://tryhackme.com/room/careersincyber)  
