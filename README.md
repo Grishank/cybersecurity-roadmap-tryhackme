@@ -84,6 +84,8 @@ Here’s my reflection on this module:
 
 ## 📘 Other Modules
 - [🌐 Networking Fundamentals](networking-fundamentals.md)
+- [🌍 DNS in Detail](dns-in-detail.md)
+
 
 
 
