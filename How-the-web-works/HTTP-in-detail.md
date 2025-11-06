@@ -1,7 +1,7 @@
 # 🌐 HTTP in Detail (Completed ✅)
 
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/http-in-detail.png?raw=true" alt="HTTP in Detail Proof" width="700"/>
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/http-in-detail.png?raw=true" alt="HTTP in Detail Proof" width="900"/>
 </p>
 
 **Platform:** TryHackMe  
