@@ -78,8 +78,10 @@ Here’s my reflection on this module:
 ---
 
 ## 📘 Other Modules
+
 - [🌐 Networking Fundamentals](networking-fundamentals.md)
-- [🌍 DNS in Detail](How-the-web-works/dns-in-detail.md)
+- [🌍 How the Web Works](How-the-web-works/README.md)
+
 
 ---
 
