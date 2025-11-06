@@ -27,7 +27,7 @@
 
 ## 🏅 Badge Earned — *Webbed*
 <p align="center">
- <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/webbed-badge.png?raw=true" alt="Webbed Badge" width="400"/>
+ <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/webbed-badge.png?raw=true" alt="Webbed Badge" width="900"/>
 
 </p>
 
