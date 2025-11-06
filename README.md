@@ -57,7 +57,7 @@ Here’s my reflection on this module:
 
 ### 🔗 My LinkedIn Post
 Here’s my reflection on this module:  
-[LinkedIn Post Link — Coming Soon 🔜]
+[LinkedIn Post — Defensive Security Intro](https://www.linkedin.com/posts/grishank-dubey-03541222a_github-grishankcybersecurity-roadmap-tryhackme-activity-7392104924098084864-dbrH?utm_source=share&utm_medium=member_desktop)
 
 ---
 
