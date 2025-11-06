@@ -1,15 +1,13 @@
-# TryHackMe — Cybersecurity Journey
+# 🧭 TryHackMe — Cybersecurity Journey
 
 My journey and notes from TryHackMe modules like Offensive Intro, Defensive Intro, and more.
 
 ---
 
-## Offensive Security Intro (Completed ✅)
+## 🧠 Offensive Security Intro (Completed ✅)
 ![Offensive Intro Badge](https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/offensive-intro-badge.png?raw=true)
 
-
 **Platform:** TryHackMe  
-**Date Completed:** November 3, 2025  
 **Room Link:** [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)  
 **Status:** ✅ Completed
 
@@ -34,9 +32,7 @@ Here’s my reflection on this module:
   <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/tryhackme-hero.png?raw=true" alt="TryHackMe Defensive Security Intro" width="700"/>
 </p>
 
-
 **Platform:** TryHackMe  
-**Date Completed:** November 4, 2025  
 **Room Link:** [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)  
 **Status:** ✅ Completed  
 
@@ -64,7 +60,6 @@ Here’s my reflection on this module:
 ## 💼 Careers in Cyber (Completed ✅)
 
 **Platform:** TryHackMe  
-**Date Completed:** November 5, 2025  
 **Room Link:** [Careers in Cyber](https://tryhackme.com/room/careersincyber)  
 **Status:** ✅ Completed  
 
@@ -84,8 +79,8 @@ Here’s my reflection on this module:
 
 ## 📘 Other Modules
 - [🌐 Networking Fundamentals](networking-fundamentals.md)
-- [🌍 DNS in Detail](dns-in-detail.md)
+- [🌍 DNS in Detail](How-the-web-works/dns-in-detail.md)
 
+---
 
-
-
+> “Every room completed is one step closer to mastering the digital battlefield.”
