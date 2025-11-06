@@ -1,9 +1,5 @@
 # 🌍 How the Web Works (Module Completed ✅)
 
-<p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/webbed-badge.png?raw=true" alt="Webbed Badge" width="400"/>
-</p>
-
 This module covers the fundamentals of how the **World Wide Web** operates — from understanding domain resolution (DNS) to how web communication happens through HTTP(S).
 
 ---
@@ -23,10 +19,10 @@ Explored the **HyperText Transfer Protocol**, understanding requests, responses,
 > “Understands how the World Wide Web works.”
 
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/webbed-badge.png?raw=true" alt="Webbed Badge" width="350"/>
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/webbed-badge.png?raw=true" alt="Webbed Badge" width="700"/>
 </p>
 
 ---
 
-## 🔗 Next Module
-Move on to **Network Security** or **Intro to LAN** (depending on the next unlocked free room).
+## 🔗 Next Room
+Move on to **How the website works** and more.
