@@ -1,6 +1,6 @@
 # 🌍 How the Web Works (Module Completed ✅)
 
-This module covers the fundamentals of how the **World Wide Web** operates — from understanding domain resolution (DNS) to how web communication happens through HTTP(S).
+This module covers the fundamentals of how the **World Wide Web** operates — from understanding domain resolution (DNS) to how web communication happens through HTTP(S), and how actual websites function end-to-end.
 
 ---
 
@@ -11,6 +11,13 @@ Learned how **Domain Name System (DNS)** converts human-readable domain names in
 
 ### 2️⃣ [HTTP in Detail](./http-in-detail.md)
 Explored the **HyperText Transfer Protocol**, understanding requests, responses, methods, headers, cookies, and how HTTPS secures communication.
+
+### 3️⃣ [How Websites Work](./how-websites-work.md)
+Understood the complete journey from a **browser request to a fully loaded website**, including:
+- How **web servers and clients** interact  
+- How **front-end & back-end** communicate  
+- Role of **DNS, IP, and ports** in connecting systems  
+- How everything ties together to make the web work 🌐
 
 ---
 
@@ -25,4 +32,4 @@ Explored the **HyperText Transfer Protocol**, understanding requests, responses,
 ---
 
 ## 🔗 Next Room
-Move on to **How the website works** and more.
+Move on to **Putting It All Together** — the next room in the “How the Web Works” path.
