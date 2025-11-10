@@ -1,7 +1,7 @@
 # 🧩 Putting It All Together (Completed ✅)
 
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/Putting it all together.png?raw=true" alt="Putting It All Together - TryHackMe Proof" width="700"/>
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/Putting it all together.png?raw=true" alt="Putting It All Together - TryHackMe Proof" width="900"/>
 </p>
 
 **Platform:** TryHackMe  
