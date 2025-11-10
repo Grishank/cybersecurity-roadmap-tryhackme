@@ -1,7 +1,7 @@
 # 🌍 DNS in Detail (Completed ✅)
 
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/dns-in-detail.png?raw=true" alt="DNS in Detail - TryHackMe Proof" width="700"/>
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/dns-in-detail.png?raw=true" alt="DNS in Detail - TryHackMe Proof" width="900"/>
 </p>
 
 **Platform:** TryHackMe  
