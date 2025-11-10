@@ -9,7 +9,7 @@ This module covers the fundamentals of how the **World Wide Web** operates — f
 ### 1️⃣ [DNS in Detail](./dns-in-detail.md)
 Learned how **Domain Name System (DNS)** converts human-readable domain names into IP addresses, how records are structured, and how requests travel through DNS hierarchies.
 
-### 2️⃣ [HTTP in Detail](./http-in-detail.md)
+### 2️⃣ [HTTP in Detail](./Http-in-detail.md)
 Explored the **HyperText Transfer Protocol**, understanding requests, responses, methods, headers, cookies, and how HTTPS secures communication.
 
 ### 3️⃣ [How Websites Work](./how-websites-work.md)
