@@ -11,7 +11,7 @@ Learned how the **Domain Name System (DNS)** converts human-readable domain name
 
 ---
 
-### 2️⃣ [HTTP in Detail](./http-in-detail.md)
+### 2️⃣ [HTTP in Detail](./HTTP-in-detail.md)
 Explored the **HyperText Transfer Protocol**, understanding requests, responses, methods, headers, cookies, and how **HTTPS** secures communication.
 
 ---
