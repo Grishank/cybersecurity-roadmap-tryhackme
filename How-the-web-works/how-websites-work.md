@@ -1,7 +1,7 @@
 # 💻 How Websites Work (Completed ✅)
 
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/how-websites-work-proof.png?raw=true" alt="How Websites Work Proof" width="700"/>
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/how-websites-work-proof.png?raw=true" alt="How Websites Work Proof" width="900"/>
 </p>
 
 **Platform:** TryHackMe  
