@@ -12,29 +12,39 @@
 ---
 
 ### 🧠 What I Learned
-- How to deploy and connect to a Linux machine safely.  
-- Using **terminal text editors** like `nano` to create and modify files.  
-- Important general utilities such as:
-  - `wc` (count lines & words)  
-  - `sort`  
-  - `uniq`  
-  - `cut`  
-- Basics of **process management**:
-  - `ps`  
-  - `top`  
-  - `kill`  
-- System automation concepts through cron & scheduled tasks.  
-- Package management basics (`apt update`, `apt install`, `apt upgrade`).  
-- Understanding and viewing system logs inside `/var/log`.
+- Learned how to **deploy and access** a Linux machine reliably for real-world cybersecurity labs.  
+- Understood how **terminal text editors** (especially `nano`) work for creating and modifying configuration files — a core skill in Linux administration and security.  
+- Explored essential **utilities** that help in data manipulation:  
+  - `wc` → count lines, words, characters  
+  - `sort` → sort data alphabetically or numerically  
+  - `uniq` → remove duplicate lines  
+  - `cut` → extract specific columns from text  
+  These tools are heavily used in log analysis and pipeline workflows.  
+- Gained understanding of **process management**:
+  - `ps` → list running processes  
+  - `top` → realtime process + resource usage  
+  - `kill` → terminate a process  
+  These skills are critical for system monitoring and stopping malware or suspicious programs.  
+- Learned **automation basics** using cron jobs — scheduling tasks like backups, scans, and maintenance.  
+- Understood **package management** (`apt`):  
+  - `apt update` → refresh package list  
+  - `apt install` → install software  
+  - `apt upgrade` → update system packages  
+  This is essential for securing systems by keeping tools and dependencies updated.  
+- Explored **system logs** inside `/var/log` — the heart of incident response, troubleshooting, and monitoring.
+  - `/var/log/auth.log` → login attempts  
+  - `/var/log/syslog` → system messages  
+  - `/var/log/dpkg.log` → installed packages  
+  Understanding logs is a fundamental SOC analyst skill.
 
 ---
 
 ### 🧩 Key Concepts
-- Linux text editors allow full control inside the terminal.  
-- Utilities like `sort`, `cut`, and `uniq` help in filtering and analyzing data.  
-- Processes represent running programs you can view or terminate.  
-- Cron jobs automate tasks for efficiency and system management.  
-- Linux uses package managers to install & maintain software.  
-- Logs are essential for cybersecurity, monitoring, and incident response.
+- Text editors are used for configuration, scripting, and system-level edits.  
+- Utilities like `sort`, `uniq`, and `cut` help analyze and filter large text files and logs.  
+- Processes represent all running programs, and knowing how to list, inspect, and kill them is vital for security.  
+- Cron jobs automate repetitive tasks like scanning, updating, or monitoring.  
+- Package managers keep systems secure with timely updates and installation of required tools.  
+- Logs are one of the most important sources of truth in cybersecurity investigations.
 
 ---
