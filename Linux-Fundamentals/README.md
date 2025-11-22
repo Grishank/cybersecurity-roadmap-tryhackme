@@ -49,7 +49,7 @@ Completed full Linux workflow and administration fundamentals:
 ---
 
 ## 🏅 Badge Earned (Shown Once)
-> You receive the **same badge** for all 3 rooms in this module.
+> I receive the **same badge** for all 3 rooms in this module.
 
 <p align="center">
   <img src="../assets/images/linux-fundamentals-part1-badge.png?raw=true" 
