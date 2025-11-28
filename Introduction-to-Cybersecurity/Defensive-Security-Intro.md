@@ -1,7 +1,7 @@
 ## 🛡️ Defensive Security Intro (Completed ✅)
 
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/tryhackme-hero.png?raw=true" alt="TryHackMe Defensive Security Intro" width="700"/>
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/tryhackme-hero.png?raw=true" alt="TryHackMe Defensive Security Intro" width="700"/>
 </p>
 
 **Platform:** TryHackMe  
