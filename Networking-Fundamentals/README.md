@@ -56,7 +56,7 @@ Learned network expansion and protection concepts:
 
 ---
 
-### 5️⃣ [`What is Networking?`](../networking-fundamentals.md)  
+### 5️⃣ [`What is Networking?`](./What-is-Networking.md)  
 *(First basic room from Pre-Security, listed here for completeness)*  
 Covered:
 - OSI basics  
