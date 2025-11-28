@@ -58,7 +58,9 @@ Completed full Linux workflow and administration fundamentals:
 
 ---
 
-## 🔗 LinkedIn Post
-A combined Linux Fundamentals accomplishment post will be created once all 3 rooms are fully documented.
+### 🔗 My LinkedIn Post
+Here’s my reflection on this module:  
+[LinkedIn Post — Linux Fundamentals](https://www.linkedin.com/posts/grishank-dubey-03541222a_tryhackme-linux-cybersecurity-activity-7397991382331596800-tVgm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlerqkBnAZYRM75PmniDxAKcZECyb6j3tg)
+
 
 ---
