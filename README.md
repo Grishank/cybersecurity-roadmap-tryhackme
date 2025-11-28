@@ -1,88 +1,65 @@
-# 🧭 TryHackMe — Cybersecurity Journey
+# My TryHackMe Cybersecurity Roadmap (Documented Journey)
 
-My journey and notes from TryHackMe modules like Offensive Intro, Defensive Intro, and more.
-
----
-
-## 🧠 Offensive Security Intro (Completed ✅)
-![Offensive Intro Badge](https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/offensive-intro-badge.png?raw=true)
-
-**Platform:** TryHackMe  
-**Room Link:** [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)  
-**Status:** ✅ Completed
-
-### 📝 What I Learned
-- Basics of **ethical hacking** and the **attacker mindset**  
-- Difference between **Offensive** and **Defensive** security  
-- Introduction to **red teaming** and **penetration testing**  
-- Understanding **attack surfaces** and reconnaissance
-
-### 🧩 Key Takeaways
-> “Cybersecurity is not about hacking — it’s about understanding systems deeply.”
-
-### 🔗 My LinkedIn Post
-Here’s my reflection on this module:  
-[LinkedIn Post Link](https://www.linkedin.com/posts/grishank-dubey-03541222a_offensive-security-intro-activity-7390910652405633025-qROb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlerqkBnAZYRM75PmniDxAKcZECyb6j3tg)
+This repository documents my TryHackMe learning journey — notes, walkthroughs, screenshots, and reflections across introductory → intermediate cybersecurity topics. The goal: build a public, searchable portfolio that shows consistent progress and real skills.
 
 ---
 
-## 🛡️ Defensive Security Intro (Completed ✅)
+## 📚 Modules & Rooms
+
+### 🔐 Module 1 — Introduction to Cyber Security
+- [Offensive Security Intro](./Introduction-to-Cybersecurity/Offensive-Security-Intro.md)  
+- [Defensive Security Intro](./Introduction-to-Cybersecurity/Defensive-Security-Intro.md)  
+- [Careers in Cyber](./Introduction-to-Cybersecurity/Careers-in-Cyber.md)
+
+---
+
+### 🌐 Module [2 — Networking Fundamentals
+- [What is netwoking](./Networking-Fundamentals/What-is-networking.md) 
+- [Intro to LAN](./Networking-Fundamentals/Intro-to-LAN.md)  
+- [OSI Model](./Networking-Fundamentals/OSI-model.md)  
+- [Packets & Frames](./Networking-Fundamentals/Packets-and-Frames.md)  
+- [Extending Your Network](./Networking-Fundamentals/Extending-your-network.md)
+
+---
+
+### 🐧 Module 3 — Linux Fundamentals
+- [Linux Fundamentals Part 1](./Linux-Fundamentals/Linux-Fundamentals-part-1.md)  
+- [Linux Fundamentals Part 2](./Linux-Fundamentals/Linux-Fundamentals-part-2.md)  
+- [Linux Fundamentals Part 3](./Linux-Fundamentals/Linux-Fundamentals-part-3.md)
+
+---
+
+### 🪟 Module 4 — Windows Fundamentals
+- [Windows Fundamentals Part 1](./Windows-Fundamentals/Part-1.md)  
+- [Windows Fundamentals Part 2](./Windows-Fundamentals/Part-2.md)  
+- [Windows Fundamentals Part 3](./Windows-Fundamentals/Part-3.md)
+
+---
+
+### 🌍 How the Web Works
+- [How Websites Work](./How-the-web-works/how-websites-work.md)  
+- [HTTP in Detail](./How-the-web-works/HTTP-in-detail.md)  
+- [DNS in Detail](./How-the-web-works/dns-in-detail.md)  
+- [Putting it All Together](./How-the-web-works/Putting-it-all-together.md)
+
+---
+
+## 🧾 Pre-Security certificate (TryHackMe):
 
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/tryhackme-hero.png?raw=true" alt="TryHackMe Defensive Security Intro" width="700"/>
+  <img src="./assets/images/pre-security-certificate.jpg?raw=true" alt="Pre-Security Certificate" width="900"/>
 </p>
 
-**Platform:** TryHackMe  
-**Room Link:** [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)  
-**Status:** ✅ Completed  
+---
 
-### 🧠 What I Learned
-- What **Defensive Security** is and its importance in protecting organizations  
-- Roles and **responsibilities** of defensive teams (SOC analysts, incident responders, etc.)  
-- How defenders monitor, detect, and mitigate cyber threats  
-- Hands-on experience defending the **FakeBank** system simulation  
-
-### ⚙️ Skills Strengthened
-- Security Monitoring 🖥️  
-- Threat Analysis 🔍  
-- Network Defense Basics 🌐  
-- SOC Workflow Understanding 🧩  
-
-### 🧩 Key Takeaways
-> “While offense teaches how to break systems, defense teaches how to protect what matters.”
-
-### 🔗 My LinkedIn Post
-Here’s my reflection on this module:  
-[LinkedIn Post — Defensive Security Intro](https://www.linkedin.com/posts/grishank-dubey-03541222a_github-grishankcybersecurity-roadmap-tryhackme-activity-7392104924098084864-dbrH?utm_source=share&utm_medium=member_desktop)
+## 🔧 How to read this repo
+- Each module folder contains a `README.md` (module overview) plus per-room `.md` writeups.  
+- `assets/images/` stores badges and room screenshots used across module pages.  
+- Use the links above to jump to specific rooms and read my notes, what I learned, and next steps.
 
 ---
 
-## 💼 Careers in Cyber (Completed ✅)
-
-**Platform:** TryHackMe  
-**Room Link:** [Careers in Cyber](https://tryhackme.com/room/careersincyber)  
-**Status:** ✅ Completed  
-
-### 🧠 What I Learned
-- Explored different **career paths** within cybersecurity — from analysis to engineering to response.  
-- Learned how **Security Analysts** handle alerts, logs, and threat identification.  
-- Understood the role of a **Security Engineer** in building and maintaining secure systems.  
-- Studied how **Incident Responders** react to and contain active breaches.  
-- Discovered what **Digital Forensics Examiners** do to trace attacks and preserve evidence.  
-- Learned about **Malware Analysts** who reverse-engineer malicious code.  
-- Explored the work of **Penetration Testers** who identify vulnerabilities before attackers can exploit them.
-
-### ⚙️ Key Takeaways
-> “Cybersecurity isn’t one job — it’s a network of specialists working together to secure systems.”
+## 🚀 Next steps (my plan)
+- Prepare for Cybersecurity 101 from tryhackme 
 
 ---
-
-## 📘 Other Modules
-
-- [🌐 Networking Fundamentals](networking-fundamentals.md)
-- [🌍 How the Web Works](How-the-web-works/README.md)
-
-
----
-
-> “Every room completed is one step closer to mastering the digital battlefield.”
