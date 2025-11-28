@@ -84,6 +84,17 @@ Understanding these fundamentals is key for any SOC, blue team, or cybersecurity
 
 ---
 
+### 🏅 Badge Earned — *Networking Nerd*
+
+<p align="center">
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/Networking-Nerd-Badge.png?raw=true" 
+       alt="Extending your network Badge" width="700"/>
+</p>
+
+**Achievement:** Completed the *Extending-Your-Network* room on TryHackMe.  
+
+---
+
 ### 🧩 Next Steps
 - Move on to **Networking Challenges / Advanced Rooms** if needed.  
 - Practice firewall rule-writing on Linux (iptables, ufw).  
