@@ -5,7 +5,7 @@ My journey and notes from TryHackMe modules like Offensive Intro, Defensive Intr
 ---
 
 ## 🧠 Offensive Security Intro (Completed ✅)
-![Offensive Intro Badge](https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/offensive-intro-badge.png?raw=true)
+![Offensive Intro Badge](https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/offensive-intro-badge.png?raw=true)
 
 **Platform:** TryHackMe  
 **Room Link:** [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)  
