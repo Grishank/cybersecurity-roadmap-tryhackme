@@ -36,7 +36,7 @@ This repository documents my TryHackMe learning journey — notes, walkthroughs,
 
 ---
 
-### 🌍 How the Web Works
+### 🌍 Module 5 - How the Web Works
 - [How Websites Work](./How-the-web-works/how-websites-work.md)  
 - [HTTP in Detail](./How-the-web-works/HTTP-in-detail.md)  
 - [DNS in Detail](./How-the-web-works/dns-in-detail.md)  
