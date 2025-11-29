@@ -1,11 +1,12 @@
 # 🕵️‍♂️ Search Skills — TryHackMe Room  
-<img src="../assets/images/Search-Skills.png" width="900"/>
+<p align="center">
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/Search-Skills.png?raw=true" alt="Search skills room Proof" width="900"/>
 
 **Platform:** TryHackMe  
 **Path:** Cybersecurity 101  
 **Module:** Start Your Cybersecurity Journey  
 **Date Completed:** Nov 2025  
-**Room Link:** https://tryhackme.com  
+**Room Link:** [Search Skills Room](https://tryhackme.com/room/searchskills)
 **Status:** ✔ Completed  
 
 ---
