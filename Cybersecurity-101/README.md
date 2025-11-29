@@ -17,13 +17,19 @@ This module introduces the fundamentals of cybersecurity from both offensive and
 
 ---
 
-## 🧭 What This Module Covers
-- Core cybersecurity career roles  
-- Basics of offensive vs. defensive security  
-- Fundamentals of investigations  
-- Research and search skills  
-- Evaluating trustworthy information  
-- How attackers think vs. how defenders respond  
+## 🐧 Module 2 — Linux Fundamentals
+
+This module teaches the core concepts of Linux, navigation, permissions, essential commands, and system management — critical for every SOC analyst and ethical hacker.
+
+### **Completed Rooms:**
+
+- [Linux Fundamentals — Part 1](../Linux-Fundamentals/Linux-Fundamentals-part-1.md)
+- [Linux Fundamentals — Part 2](../Linux-Fundamentals/Linux-Fundamentals-part-2.md)
+- [Linux Fundamentals — Part 3](../Linux-Fundamentals/Linux-Fundamentals-part-3.md)
+
+**Note:**  
+These rooms were previously completed in the *Pre-Security Path* and fully documented in the dedicated **Linux-Fundamentals module**.  
+They are referenced here to map the Cybersecurity 101 progression accurately without duplicating content.
 
 ---
 
