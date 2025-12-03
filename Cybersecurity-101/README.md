@@ -1,7 +1,7 @@
 # 🔐 Cybersecurity 101 — TryHackMe Path
 
 This module contains all rooms completed from the **Cybersecurity 101** learning path on TryHackMe.  
-It focuses on building core foundations in cybersecurity, research skills, threat understanding, and practical hands-on concepts.
+It focuses on building core foundations in cybersecurity, research skills, threat understanding, Windows/AD fundamentals, and practical hands-on investigation concepts.
 
 ---
 
@@ -10,7 +10,6 @@ It focuses on building core foundations in cybersecurity, research skills, threa
 This module introduces the fundamentals of cybersecurity from both offensive and defensive perspectives, along with essential research/search skills.
 
 ### **Completed Rooms:**
-
 - [Offensive Security Intro](../Introduction-to-Cybersecurity/Offensive-Security-Intro.md)  
 - [Defensive Security Intro](../Introduction-to-Cybersecurity/Defensive-Security-Intro.md)  
 - [Search Skills](./Start-Your-Cybersecurity-Journey/Search-Skills.md)
@@ -22,24 +21,41 @@ This module introduces the fundamentals of cybersecurity from both offensive and
 This module teaches the core concepts of Linux, navigation, permissions, essential commands, and system management — critical for every SOC analyst and ethical hacker.
 
 ### **Completed Rooms:**
-
-- [Linux Fundamentals — Part 1](../Linux-Fundamentals/Linux-Fundamentals-part-1.md)
-- [Linux Fundamentals — Part 2](../Linux-Fundamentals/Linux-Fundamentals-part-2.md)
+- [Linux Fundamentals — Part 1](../Linux-Fundamentals/Linux-Fundamentals-part-1.md)  
+- [Linux Fundamentals — Part 2](../Linux-Fundamentals/Linux-Fundamentals-part-2.md)  
 - [Linux Fundamentals — Part 3](../Linux-Fundamentals/Linux-Fundamentals-part-3.md)
 
 **Note:**  
-These rooms were previously completed in the *Pre-Security Path* and fully documented in the dedicated **Linux-Fundamentals module**.  
-They are referenced here to map the Cybersecurity 101 progression accurately without duplicating content.
+These rooms were previously completed in the *Pre-Security Path* and fully documented in the dedicated Linux-Fundamentals module.  
+They are referenced here to accurately map Cybersecurity 101 progression without duplicating content.
+
+---
+
+## 🪟 Module 3 — Windows & AD Fundamentals
+
+This module covers Windows operating system basics, enterprise authentication concepts, and Active Directory — the backbone of identity management in most organizations.
+
+### **Completed Rooms:**
+
+#### **🔹 Windows Fundamentals (Completed Earlier — Linked)**  
+- [Windows Fundamentals — Part 1](../Windows-Fundamentals/Part-1.md)  
+- [Windows Fundamentals — Part 2](../Windows-Fundamentals/Part-2.md)  
+- [Windows Fundamentals — Part 3](../Windows-Fundamentals/Part-3.md)
+
+#### **🔹 Active Directory Basics (New Room in This Path)**  
+- [Active Directory Basics](./Windows%20and%20Ad%20Fundamentals/Active-Directory-Basics.md)
+
+**Note:**  
+Windows Fundamentals 1, 2, and 3 were completed during the *Pre-Security Path* and are linked here for Cybersecurity 101 path completeness.  
+Active Directory Basics is a new room specific to this path and is stored in the module folder.
 
 ---
 
 ## 🎯 Status
-✔ **Module Completed**  
-*(as part of your Day 4 progress in the 60-Day SOC + AI Journey)*
+✔ **Modules 1–3 Completed**  
+*(as part of your Cybersecurity 101 progress)*
 
 ---
 
 ## 🚀 Next Steps
-Proceed to the next module in the **Cybersecurity 101** path to further strengthen your defensive skills, Linux knowledge, and practical investigation capability.
-
-
+Continue with the remaining rooms in the **Cybersecurity 101** path to strengthen foundational concepts, investigative skills, and prepare for SOC-level analysis.
