@@ -38,7 +38,9 @@ This path builds deeper investigation skills, OSINT abilities, Windows/AD fundam
 - **Linux Fundamentals** (previously completed under Pre-Security)  
 - **Windows & AD Fundamentals**  
   - Windows Fundamentals 1, 2, 3 (linked from Pre-Security)  
-  - Active Directory Basics (new, completed here)
+  - Active Directory Basics (new, completed here)  
+- **Command Line Fundamentals**  
+  - Windows Command Line
 
 More rooms will be added as I progress through Cybersecurity 101.
 
@@ -110,6 +112,11 @@ Below is the complete list of all modules for easy navigation:
 - [Windows Fundamentals Part 2](./Windows-Fundamentals/Part-2.md)  
 - [Windows Fundamentals Part 3](./Windows-Fundamentals/Part-3.md)  
 - [Active Directory Basics](./Cybersecurity-101/Windows%20and%20Ad%20Fundamentals/Active-Directory-Basics.md)
+
+---
+
+#### 💻 Module 4 — Command Line Fundamentals  
+- [Windows Command Line](./Cybersecurity-101/Command-Line/Windows-command-line.md)
 
 ---
 
