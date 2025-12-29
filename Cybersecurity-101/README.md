@@ -57,11 +57,12 @@ This module focuses on mastering the **command-line interface (CLI)** — a crit
 It emphasizes speed, automation, remote management, and investigation using built-in Windows tools.
 
 ### **Completed Rooms:**
-- [Windows Command Line](./Command-Line/Windows-command-line.md)
+- [Windows Command Line](./Command-Line/Windows-command-line.md)  
+- [Windows PowerShell](./Command-Line/Windows-Powershell.md)
 
 **Why this matters for SOC:**  
-Command-line activity is heavily used during system administration *and* post-exploitation.  
-Understanding normal CLI usage helps SOC analysts detect suspicious behavior, LOLBins, and attacker reconnaissance.
+Command-line and PowerShell activity are heavily used during system administration *and* post-exploitation.  
+Understanding normal usage helps SOC analysts detect suspicious behavior, LOLBins, PowerShell abuse, and attacker reconnaissance.
 
 ---
 
