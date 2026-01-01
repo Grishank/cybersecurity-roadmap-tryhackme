@@ -118,6 +118,7 @@ Below is the complete list of all modules for easy navigation:
 #### 💻 Module 4 — Command Line Fundamentals  
 - [Windows Command Line](./Cybersecurity-101/Command-Line/Windows-command-line.md)
 - [Windows Powershell](./Cybersecurity-101/Command-Line/Windows-Powershell.md)
+- [Linux shells](./Cybersecurity-101/Command-Line/Linux-shells.md)
 
 ---
 
