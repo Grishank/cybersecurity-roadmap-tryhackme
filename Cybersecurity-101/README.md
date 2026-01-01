@@ -53,22 +53,22 @@ Active Directory Basics is a new room specific to this path and is stored in the
 
 ## 💻 Module 4 — Command Line Fundamentals
 
-This module focuses on mastering the **command-line interface (CLI)** — a critical skill for SOC analysts, incident responders, and defenders.  
-It emphasizes speed, automation, remote management, and investigation using built-in Windows tools.
+This module focuses on mastering the **command-line interface (CLI)** and shell environments — critical skills for SOC analysts, incident responders, and defenders.  
+It emphasizes speed, automation, scripting, and investigation across Windows and Linux systems.
 
 ### **Completed Rooms:**
 - [Windows Command Line](./Command-Line/Windows-command-line.md)  
-- [Windows PowerShell](./Command-Line/Windows-Powershell.md)
+- [Windows PowerShell](./Command-Line/Windows-Powershell.md)  
+- [Linux Shells](./Command-Line/Linux-Shells.md)
 
 **Why this matters for SOC:**  
-Command-line and PowerShell activity are heavily used during system administration *and* post-exploitation.  
-Understanding normal usage helps SOC analysts detect suspicious behavior, LOLBins, PowerShell abuse, and attacker reconnaissance.
+Command-line, PowerShell, and shell activity are heavily used during system administration *and* post-exploitation.  
+Understanding normal shell behavior helps SOC analysts detect suspicious commands, scripts, privilege escalation attempts, and living-off-the-land attacks.
 
 ---
 
 ## 🎯 Status
 ✔ **Modules 1–4 Completed**  
-*(as part of your Cybersecurity 101 progress)*
 
 ---
 
