@@ -121,6 +121,10 @@ Below is the complete list of all modules for easy navigation:
 - [Linux shells](./Cybersecurity-101/Command-Line/Linux-shells.md)
 
 ---
+#### 💻 Module 5 — Networking  
+- [Networking Concepts](./Cybersecurity-101/Networking/Networking-Concepts.md)
+
+---
 
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
