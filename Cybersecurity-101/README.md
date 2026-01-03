@@ -67,10 +67,22 @@ Understanding normal shell behavior helps SOC analysts detect suspicious command
 
 ---
 
+## 🌐 Module 5 — Networking Fundamentals
+
+This module introduces the core networking concepts required for understanding how systems communicate and how attacks move across networks.
+
+### **Completed Rooms:**
+- [Networking Concepts](./Networking/Networking-Concepts.md)
+
+**Why this matters for SOC:**  
+Most attacks involve network activity. Understanding OSI layers, IP addressing, protocols, and encapsulation helps SOC analysts detect, triage, and investigate network-based threats effectively.
+
+---
+
 ## 🎯 Status
-✔ **Modules 1–4 Completed**  
+✔ **Modules 1–5 Completed**
 
 ---
 
 ## 🚀 Next Steps
-Continue with the remaining rooms in the **Cybersecurity 101** path to strengthen foundational concepts, investigative skills, and prepare for SOC-level analysis.
+Continue with the remaining rooms in the **Cybersecurity 101** path to strengthen networking depth, investigative skills, and SOC-level detection capabilities.
