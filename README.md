@@ -1,7 +1,7 @@
 # 🔐 My TryHackMe Cybersecurity Roadmap (Documented Journey)
 
 <p align="center">
-  <img src="./assets/images/THM-banner.png" width="900"/>
+  <img src="./assets/images/THM-banner.png" width="700"/>
 </p>
 
 This repository documents my complete cybersecurity learning journey on TryHackMe — from absolute fundamentals to intermediate SOC skills.  
@@ -45,6 +45,11 @@ This path builds deeper investigation skills, OSINT abilities, Windows/AD fundam
   - Active Directory Basics (new, completed here)  
 - **Command Line Fundamentals**  
   - Windows Command Line
+  - Windows Powershell
+  - Linux Shells
+- **Networking**
+  - Networking Concepts
+  - Networking Essentials
 
 More rooms will be added as I progress through Cybersecurity 101.
 
