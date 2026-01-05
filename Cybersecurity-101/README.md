@@ -73,6 +73,7 @@ This module introduces the core networking concepts required for understanding h
 
 ### **Completed Rooms:**
 - [Networking Concepts](./Networking/Networking-Concepts.md)
+- [Networking Essentials](./Networking/Networking-Essentials.md)
 
 **Why this matters for SOC:**  
 Most attacks involve network activity. Understanding OSI layers, IP addressing, protocols, and encapsulation helps SOC analysts detect, triage, and investigate network-based threats effectively.
@@ -80,7 +81,7 @@ Most attacks involve network activity. Understanding OSI layers, IP addressing, 
 ---
 
 ## 🎯 Status
-✔ **Modules 1–5 Completed**
+✔ **Modules 1–4 Completed**
 
 ---
 
