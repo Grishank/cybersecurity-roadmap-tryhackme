@@ -1,5 +1,9 @@
 # 🔐 My TryHackMe Cybersecurity Roadmap (Documented Journey)
 
+<p align="center">
+  <img src="./assets/images/THM-banner.png" width="900"/>
+</p>
+
 This repository documents my complete cybersecurity learning journey on TryHackMe — from absolute fundamentals to intermediate SOC skills.  
 Every room includes notes, screenshots, summaries, and what I learned.  
 The goal: build a public, transparent, and professional cybersecurity portfolio.
