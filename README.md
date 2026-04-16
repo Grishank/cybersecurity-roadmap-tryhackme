@@ -133,6 +133,7 @@ Below is the complete list of all modules for easy navigation:
 #### 🌐 Module 5 — Networking  
 - [Networking Concepts](./Cybersecurity-101/Networking/Networking-Concepts.md)
 - [Networking Essentials](./Cybersecurity-101/Networking/Networking-Essentials.md)
+- [Networking Core Protocols](./Cybersecurity-101/Networking/Networking-Core-Protocols.md)
 
 ---
 
