@@ -8,7 +8,7 @@
 **Path:** Cybersecurity 101  
 **Module:** Networking  
 **Date Completed:** Apr 2026  
-**Room Link:** https://tryhackme.com/room/networkingsecureprotocols
+**Room Link:** https://tryhackme.com/room/networkingsecureprotocols                                
 **Status:** ✔ Completed  
 
 ---
