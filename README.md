@@ -137,6 +137,7 @@ Below is the complete list of all modules for easy navigation:
 - [Networking Secure Protocols](./Cybersecurity-101/Networking/Networking-Secure-Protocols.md)
 - [Wireshark: The Basics](./Cybersecurity-101/Networking/Wireshark-The-Basics.md)
 - [Tcpdump: The Basics](./Cybersecurity-101/Networking/Tcpdump-The-Basics.md)
+- [Nmap: The Basics](./Cybersecurity-101/Networking/Nmap-The-Basics.md)
 
 ---
 
