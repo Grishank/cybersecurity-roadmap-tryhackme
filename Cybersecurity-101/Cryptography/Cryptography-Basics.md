@@ -5,7 +5,7 @@
 </p>
 
 **Platform:** TryHackMe  
-**Path:** Cybersecurity 101  
+**Path:** Cybersecurity 101   
 **Module:** Cryptography  
 **Date Completed:** Apr 2026  
 **Room Link:** https://tryhackme.com/room/cryptographybasics                     
