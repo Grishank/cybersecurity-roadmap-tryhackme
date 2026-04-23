@@ -1,7 +1,7 @@
 # 🔓 John the Ripper: The Basics — TryHackMe Room
 
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/John-the-Ripper-The-Basics-banner.png?raw=true" alt="John the Ripper Basics Proof" width="900"/>
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/John-The-Ripper-The-Basics-banner.png?raw=true" alt="John the Ripper Basics Proof" width="900"/>
 </p>
 
 **Platform:** TryHackMe  
