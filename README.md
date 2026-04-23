@@ -140,6 +140,13 @@ Below is the complete list of all modules for easy navigation:
 - [Nmap: The Basics](./Cybersecurity-101/Networking/Nmap-The-Basics.md)
 
 ---
+#### 🔐 Module 6 — Cryptography & Password Security  
+- [Cryptography Basics](./Cybersecurity-101/Cryptography/Cryptography-Basics.md)
+- [Public Key Cryptography Basics](./Cybersecurity-101/Cryptography/Public-Key-Cryptography-Basics.md)
+- [Hashing Basics](./Cybersecurity-101/Cryptography/Hashing-Basics.md)
+- [John the Ripper: The Basics](./Cybersecurity-101/Cryptography/John-The-Ripper-Basics.md)
+
+---
 
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
