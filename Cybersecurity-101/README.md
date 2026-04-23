@@ -85,10 +85,26 @@ Most attacks involve network activity. Understanding OSI layers, IP addressing, 
 
 ---
 
+## 🔐 Module 6 — Cryptography & Password Security
+
+This module focuses on **data protection, encryption, hashing, and password security**, which are essential for securing systems and understanding how attackers break weak implementations.
+
+### **Completed Rooms:**
+- [Cryptography Basics](./Cryptography/Cryptography-Basics.md)
+- [Public Key Cryptography Basics](./Cryptography/Public-Key-Cryptography-Basics.md)
+- [Hashing Basics](./Cryptography/Hashing-Basics.md)
+- [John the Ripper: The Basics](./Cryptography/John-the-Ripper-The-Basics.md)
+
+**Why this matters for SOC:**  
+Cryptography protects sensitive data, but weak implementations can be exploited.  
+SOC analysts must understand encryption, hashing, and password attacks to detect breaches, analyze compromised credentials, and identify security weaknesses.
+
+---
+
 ## 🎯 Status
-✔ **Modules 1–5 Completed**
+✔ **Modules 1–6 Completed**
 
 ---
 
 ## 🚀 Next Steps
-Continue with the remaining rooms in the **Cybersecurity 101** path to strengthen networking depth, investigative skills, and SOC-level detection capabilities.
+Continue with the remaining rooms in the **Cybersecurity 101** path to strengthen detection, investigation, and real-world SOC analysis skills.
