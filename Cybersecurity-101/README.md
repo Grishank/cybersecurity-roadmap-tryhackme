@@ -106,7 +106,7 @@ SOC analysts must understand encryption, hashing, and password attacks to detect
 This module introduces **real-world vulnerabilities, exploitation techniques, and detection strategies**, helping bridge the gap between theory and practical security incidents.
 
 ### **Completed Rooms:**
-- [Moniker Link (CVE-2024-21413)](./Exploitation-Basics/Moniker-Link.md)
+- [Moniker Link (CVE-2024-21413)](./Exploitation-Basics/Moniker-Link-(CVE-2024-21413).md)
 
 **Why this matters for SOC:**  
 Understanding how vulnerabilities are exploited allows SOC analysts to detect attacks, identify Indicators of Compromise (IoCs), and respond effectively to real-world threats.
