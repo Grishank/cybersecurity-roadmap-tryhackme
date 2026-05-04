@@ -147,6 +147,10 @@ Below is the complete list of all modules for easy navigation:
 - [John the Ripper: The Basics](./Cybersecurity-101/Cryptography/John-The-Ripper-Basics.md)
 
 ---
+#### 💣 Module 7 — Exploitation Basics  
+- [Moniker Link (CVE-2024-21413)](./Cybersecurity-101/Exploitation-Basics/Moniker-Link-(CVE-2024-21413).md)
+
+---
 
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
