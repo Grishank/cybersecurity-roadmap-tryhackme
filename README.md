@@ -150,6 +150,7 @@ Below is the complete list of all modules for easy navigation:
 #### 💣 Module 7 — Exploitation Basics  
 - [Moniker Link (CVE-2024-21413)](./Cybersecurity-101/Exploitation-Basics/Moniker-Link-(CVE-2024-21413).md)
 - [Metasploit Introduction](./Cybersecurity-101/Exploitation-Basics/Metasploit-Introduction.md)
+- [Metasploit Exploitation](./Cybersecurity-101/Exploitation-Basics/Metasploit-Exploitation.md)
 
 ---
 
