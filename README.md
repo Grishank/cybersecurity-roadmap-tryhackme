@@ -152,6 +152,7 @@ Below is the complete list of all modules for easy navigation:
 - [Metasploit Introduction](./Cybersecurity-101/Exploitation-Basics/Metasploit-Introduction.md)
 - [Metasploit Exploitation](./Cybersecurity-101/Exploitation-Basics/Metasploit-Exploitation.md)
 - [Metasploit Meterpreter](./Cybersecurity-101/Exploitation-Basics/Metasploit-Meterpreter.md)
+- [Blue](./Cybersecurity-101/Exploitation-Basics/Blue.md)
 
 ---
 
