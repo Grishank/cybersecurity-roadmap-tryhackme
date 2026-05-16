@@ -158,6 +158,7 @@ Below is the complete list of all modules for easy navigation:
 #### 🌍 Module 8 — Web Hacking Fundamentals  
 - [Web Application Basics](./Cybersecurity-101/Web-Hacking/Web-Application-Basics.md)
 - [Javascript Essentials](./Cybersecurity-101/Web-Hacking/Javascript-Essentials.md)
+- [SQL Fundamentals](./Cybersecurity-101/Web-Hacking/SQL-Fundamentals.md)
 
 ---
 
