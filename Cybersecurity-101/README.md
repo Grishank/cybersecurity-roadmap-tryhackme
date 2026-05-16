@@ -122,6 +122,7 @@ This module introduces the foundations of **web applications, HTTP communication
 ### **Completed Rooms:**
 - [Web Application Basics](./Web-Hacking/Web-Application-Basics.md)
 - [Javascript Essentials](./Web-Hacking/Javascript-Essentials.md)
+- [SQL Fundamentals](./Web-Hacking/SQL-Fundamentals.md)
 
 **Why this matters for SOC:**  
 Most modern attacks target web applications.  
