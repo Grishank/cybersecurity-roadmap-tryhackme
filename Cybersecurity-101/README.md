@@ -115,6 +115,17 @@ This module introduces **real-world vulnerabilities, exploitation techniques, an
 **Why this matters for SOC:**  
 Understanding how vulnerabilities are exploited allows SOC analysts to detect attacks, identify Indicators of Compromise (IoCs), and respond effectively to real-world threats.
 
+## 🌍 Module 8 — Web Hacking Fundamentals
+
+This module introduces the foundations of **web applications, HTTP communication, URLs, headers, and web security concepts** that are critical for both attackers and defenders.
+
+### **Completed Rooms:**
+- [Web Application Basics](./Web-Hacking/Web-Application-Basics.md)
+
+**Why this matters for SOC:**  
+Most modern attacks target web applications.  
+Understanding HTTP requests, responses, headers, cookies, and web traffic helps SOC analysts investigate phishing, web exploitation, malicious requests, authentication abuse, and suspicious web activity.
+
 ---
 
 ## 🎯 Status
@@ -123,4 +134,4 @@ Understanding how vulnerabilities are exploited allows SOC analysts to detect at
 ---
 
 ## 🚀 Next Steps
-Continue with the remaining rooms in the **Cybersecurity 101** path to strengthen detection, investigation, and real-world SOC analysis skills.
+Continue with the remaining rooms in the **Cybersecurity 101** path to strengthen detection, investigation, exploitation awareness, and real-world SOC analysis skills.
