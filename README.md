@@ -155,6 +155,10 @@ Below is the complete list of all modules for easy navigation:
 - [Blue](./Cybersecurity-101/Exploitation-Basics/Blue.md)
 
 ---
+#### 🌍 Module 8 — Web Hacking Fundamentals  
+- [Web Application Basics](./Cybersecurity-101/Web-Hacking/Web-Application-Basics.md)
+
+---
 
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
