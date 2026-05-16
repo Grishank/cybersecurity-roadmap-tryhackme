@@ -1,7 +1,7 @@
 # 🟨 JavaScript Essentials — TryHackMe Room
 
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/JavaScript-Essential-banner.png?raw=true" alt="JavaScript Essentials Banner" width="900"/>
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/Javascript-Essentials-banner.png?raw=true" alt="JavaScript Essentials Banner" width="900"/>
 </p>
 
 ---
