@@ -159,6 +159,7 @@ Below is the complete list of all modules for easy navigation:
 - [Web Application Basics](./Cybersecurity-101/Web-Hacking/Web-Application-Basics.md)
 - [Javascript Essentials](./Cybersecurity-101/Web-Hacking/Javascript-Essentials.md)
 - [SQL Fundamentals](./Cybersecurity-101/Web-Hacking/SQL-Fundamentals.md)
+- [Burp Suite: The Basics](./Cybersecurity-101/Web-Hacking/Burp-Suite-The-Basics.md)
 
 ---
 
