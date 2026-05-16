@@ -123,6 +123,7 @@ This module introduces the foundations of **web applications, HTTP communication
 - [Web Application Basics](./Web-Hacking/Web-Application-Basics.md)
 - [Javascript Essentials](./Web-Hacking/Javascript-Essentials.md)
 - [SQL Fundamentals](./Web-Hacking/SQL-Fundamentals.md)
+- [Burp Suite: The Basics](./Web-Hacking/Burp-Suite-The-Basics.md)
 
 **Why this matters for SOC:**  
 Most modern attacks target web applications.  
@@ -131,7 +132,7 @@ Understanding HTTP requests, responses, headers, cookies, and web traffic helps 
 ---
 
 ## 🎯 Status
-✔ **Modules 1–7 Completed**
+✔ **Modules 1–8 Completed**
 
 ---
 
