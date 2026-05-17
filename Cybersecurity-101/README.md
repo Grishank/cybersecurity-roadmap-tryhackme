@@ -128,6 +128,18 @@ This module introduces the foundations of **web applications, HTTP communication
 **Why this matters for SOC:**  
 Most modern attacks target web applications.  
 Understanding HTTP requests, responses, headers, cookies, and web traffic helps SOC analysts investigate phishing, web exploitation, malicious requests, authentication abuse, and suspicious web activity.
+---
+
+## ⚔️ Module 9 — Offensive Security Tooling
+
+This module focuses on **commonly used offensive security tools and authentication attack techniques** used during penetration testing and security assessments.
+
+### **Completed Rooms:**
+- [Hydra](./Offensive-Security-Tooling/Hydra.md)
+
+**Why this matters for SOC:**  
+SOC analysts must understand how attackers use offensive tools to perform password attacks, brute-force authentication services, and abuse weak credentials.  
+Knowledge of these tools helps defenders detect suspicious login activity, credential attacks, password spraying, and brute-force attempts in enterprise environments.
 
 ---
 
@@ -137,4 +149,4 @@ Understanding HTTP requests, responses, headers, cookies, and web traffic helps 
 ---
 
 ## 🚀 Next Steps
-Continue with the remaining rooms in the **Cybersecurity 101** path to strengthen detection, investigation, exploitation awareness, and real-world SOC analysis skills.
+Continue with the remaining rooms in the **Cybersecurity 101** path to strengthen detection, investigation, exploitation awareness, authentication security, and real-world SOC analysis skills.
