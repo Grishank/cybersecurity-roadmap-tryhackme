@@ -1,7 +1,7 @@
 # 💉 SQLMap: The Basics — TryHackMe Room
 
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/SQLMap-The-Basic-banner.png?raw=true" alt="SQLMap The Basics Banner" width="900"/>
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/SQLMap-The-Basics-banner.png?raw=true" alt="SQLMap The Basics Banner" width="900"/>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/SQLMAP-The-Basics-badge.png?raw=true" alt="SQLMap Badge" width="300"/>
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/SQLMAP-The-Basics-badge.png?raw=true" alt="SQLMap Badge" width="900"/>
 </p>
 
 ---
