@@ -137,6 +137,7 @@ This module focuses on **commonly used offensive security tools and authenticati
 ### **Completed Rooms:**
 - [Hydra](./Offensive-Security-Tooling/Hydra.md)
 - [Gobuster: The Basics](./Offensive-Security-Tooling/Gobuster-The-Basics.md)
+- [Shells Overview](./Offensive-Security-Tooling/Shells-Overview.md)
 
 **Why this matters for SOC:**  
 SOC analysts must understand how attackers use offensive tools to perform password attacks, brute-force authentication services, and abuse weak credentials.  
