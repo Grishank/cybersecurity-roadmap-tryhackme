@@ -166,6 +166,7 @@ Below is the complete list of all modules for easy navigation:
 - [Hydra](./Cybersecurity-101/Offensive-Security-Tooling/Hydra.md)
 - [Gobuster: The Basics](./Cybersecurity-101/Offensive-Security-Tooling/Gobuster-The-Basics.md)
 - [Shells Overview](./Cybersecurity-101/Offensive-Security-Tooling/Shells-Overview.md)
+- [SQLMAP: The Basics](./Cybersecurity-101/Offensive-Security-Tooling/SQLMAP-The-Basics.md)
 
 ---
 
