@@ -162,6 +162,10 @@ Below is the complete list of all modules for easy navigation:
 - [Burp Suite: The Basics](./Cybersecurity-101/Web-Hacking/Burp-Suite-The-Basics.md)
 
 ---
+#### ⚔️ Module 9 — Offensive Security Tooling  
+- [Hydra](./Cybersecurity-101/Offensive-Security-Tooling/Hydra.md)
+
+---
 
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
