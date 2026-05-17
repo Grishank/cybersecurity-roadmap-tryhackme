@@ -164,6 +164,7 @@ Below is the complete list of all modules for easy navigation:
 ---
 #### ⚔️ Module 9 — Offensive Security Tooling  
 - [Hydra](./Cybersecurity-101/Offensive-Security-Tooling/Hydra.md)
+- [Gobuster: The Basics](./Cybersecurity-101/Offensive-Security-Tooling/Gobuster-The-Basics.md)
 
 ---
 
