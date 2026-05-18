@@ -171,6 +171,7 @@ Below is the complete list of all modules for easy navigation:
 ---
 #### ⚔️ Module 10 — Defensive Security
 - [SOC Fundamentals](./Cybersecurity-101/Defensive-Security/SOC-Fundamentals.md)
+- [Digital Forensics Fundamentals](./Cybersecurity-101/Defensive-Security/Digital-Forensics-Fundamentals.md)
 
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
