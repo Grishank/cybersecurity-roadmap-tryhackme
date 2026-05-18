@@ -152,6 +152,7 @@ This module introduces the foundations of **Security Operations Centers (SOC), d
 
 ### **Completed Rooms:**
 - [SOC Fundamentals](./Defensive-Security/SOC-Fundamentals.md)
+- [Digital Forensics Fundamentals](./Defensive-Security/Digital-Forensics-Fundamentals.md)
 
 **Why this matters for SOC:**  
 This module directly focuses on real-world SOC operations and defensive security workflows.
