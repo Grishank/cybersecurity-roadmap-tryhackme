@@ -178,6 +178,7 @@ Below is the complete list of all modules for easy navigation:
  ---
 #### ⚔️ Module 10 — Security Solutions
 - [Introduction to SIEM](./Cybersecurity-101/Security-Solutions/Introduction-to-SIEM.md)
+- [Firewall Fundamentals](./Cybersecurity-101/Security-Solutions/Firewall-Fundamentals.md)
 
 
 # 🔧 How to Navigate This Repository
