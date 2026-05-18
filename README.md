@@ -175,6 +175,11 @@ Below is the complete list of all modules for easy navigation:
 - [Incident Response Fundamentals](./Cybersecurity-101/Defensive-Security/Incident-Response-Fundamentals.md)
 - [Logs Fundamentals](./Cybersecurity-101/Defensive-Security/Logs-Fundamentals.md)
 
+ ---
+#### ⚔️ Module 10 — Security Solutions
+- [Introduction to SIEM](./Cybersecurity-101/Security-Solutions/Introduction-to-SIEM.md)
+
+
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
 - Individual room writeups include:
