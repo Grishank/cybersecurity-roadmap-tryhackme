@@ -146,10 +146,43 @@ Knowledge of these tools helps defenders detect suspicious login activity, crede
 
 ---
 
+## 🛡️ Module 10 — Defensive Security Fundamentals
+
+This module introduces the foundations of **Security Operations Centers (SOC), defensive monitoring, incident response workflows, and security operations processes** used by blue teams.
+
+### **Completed Rooms:**
+- [SOC Fundamentals](./Defensive-Security/SOC-Fundamentals.md)
+
+**Why this matters for SOC:**  
+This module directly focuses on real-world SOC operations and defensive security workflows.
+
+It helps build understanding of:
+- SOC team structure
+- Alert triage
+- Incident response lifecycle
+- Security monitoring
+- SIEM and EDR technologies
+- Threat investigation processes
+
+These are core skills required for:
+- SOC Analyst Level 1
+- Blue Team operations
+- Incident response roles
+- Security monitoring careers
+
+---
+
 ## 🎯 Status
-✔ **Modules 1–8 Completed**
+✔ **Modules 1–9 Completed**
 
 ---
 
 ## 🚀 Next Steps
-Continue with the remaining rooms in the **Cybersecurity 101** path to strengthen detection, investigation, exploitation awareness, authentication security, and real-world SOC analysis skills.
+Continue with the remaining rooms in the **Cybersecurity 101** path to strengthen:
+- Detection and monitoring
+- Threat investigation
+- Incident response
+- Exploitation awareness
+- Authentication security
+- Web security analysis
+- Real-world SOC analyst skills
