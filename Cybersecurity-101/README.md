@@ -154,6 +154,7 @@ This module introduces the foundations of **Security Operations Centers (SOC), d
 - [SOC Fundamentals](./Defensive-Security/SOC-Fundamentals.md)
 - [Digital Forensics Fundamentals](./Defensive-Security/Digital-Forensics-Fundamentals.md)
 - [Incident Response Fundamentals](./Defensive-Security/Incident-Response-Fundamentals.md)
+- [Logs Fundamentals](./Defensive-Security/Logs-Fundamentals.md)
 
 **Why this matters for SOC:**  
 This module directly focuses on real-world SOC operations and defensive security workflows.
