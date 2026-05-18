@@ -174,9 +174,37 @@ These are core skills required for:
 - Security monitoring careers
 
 ---
+---
+
+## 🖥️ Module 11 — Security Solutions
+
+This module focuses on **security monitoring platforms, SIEM technologies, and centralized detection systems** used by SOC teams to detect and investigate cyber threats.
+
+### **Completed Rooms:**
+- [Introduction to SIEM](./Security-Solutions/Introduction-to-SIEM.md)
+
+**Why this matters for SOC:**  
+SIEM platforms are one of the most important technologies used inside modern Security Operations Centers.
+
+This module helps build understanding of:
+- Centralized log collection
+- Event correlation
+- Alert generation
+- Security monitoring workflows
+- Threat detection pipelines
+- Investigation and triage processes
+
+These concepts are essential for:
+- SOC Analyst Level 1
+- Security monitoring roles
+- Threat detection operations
+- SIEM investigation workflows
+- Blue Team analysis
+
+---
 
 ## 🎯 Status
-✔ **Modules 1–9 Completed**
+✔ **Modules 1–11 Completed**
 
 ---
 
@@ -188,4 +216,6 @@ Continue with the remaining rooms in the **Cybersecurity 101** path to strengthe
 - Exploitation awareness
 - Authentication security
 - Web security analysis
+- SIEM operations
+- Threat detection engineering
 - Real-world SOC analyst skills
