@@ -169,6 +169,8 @@ Below is the complete list of all modules for easy navigation:
 - [SQLMAP: The Basics](./Cybersecurity-101/Offensive-Security-Tooling/SQLMAP-The-Basics.md)
 
 ---
+#### ⚔️ Module 10 — Defensive Security
+- [SOC Fundamentals](./Cybersecurity-101/Defensive-Security/SOC-Fundamentals.md)
 
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
