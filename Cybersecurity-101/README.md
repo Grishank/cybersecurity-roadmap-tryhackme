@@ -184,6 +184,8 @@ This module focuses on **security monitoring platforms, SIEM technologies, and c
 - [Introduction to SIEM](./Security-Solutions/Introduction-to-SIEM.md)
 - [Firewall Fundamentals](./Security-Solutions/Firewall-Fundamentals.md)
 - [IDS Fundamentals](./Security-Solutions/IDS-Fundamentals.md)
+- [Vulnerability Scanner Overview](./Security-Solutions/Vulnerability-Scanner-Overview.md)
+
 
 **Why this matters for SOC:**  
 SIEM platforms are one of the most important technologies used inside modern Security Operations Centers.
