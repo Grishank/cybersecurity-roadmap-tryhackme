@@ -176,16 +176,18 @@ Below is the complete list of all modules for easy navigation:
 - [Logs Fundamentals](./Cybersecurity-101/Defensive-Security/Logs-Fundamentals.md)
 
  ---
-#### ⚔️ Module 10 — Security Solutions
+#### ⚔️ Module 11 — Security Solutions
 - [Introduction to SIEM](./Cybersecurity-101/Security-Solutions/Introduction-to-SIEM.md)
 - [Firewall Fundamentals](./Cybersecurity-101/Security-Solutions/Firewall-Fundamentals.md)
 - [IDS Fundamentals](./Cybersecurity-101/Security-Solutions/IDS-Fundamentals.md)
 - [Vulnerability Scanner Overview](./Cybersecurity-101/Security-Solutions/Vulnerability-Scanner-Overview.md)
 
  ---
-#### ⚔️ Module 10 — Defensive Security Tooling
+#### ⚔️ Module 12 — Defensive Security Tooling
 - [CyberChef: The Basics](./Cybersecurity-101/Defensive-Security-Tooling/CyberChef-The-Basics.md)
 - [CAPA: The Basics](./Cybersecurity-101/Defensive-Security-Tooling/CAPA-The-Basics.md)
+- [REMnux: Getting Started](./Cybersecurity-101/Defensive-Security-Tooling/REMnux-Getting-Started.md)
+- [FlareVM: Arsenal of Tools](./Cybersecurity-101/Defensive-Security-Tooling/FlareVM-Arsenal-of-Tools.md)
 
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
