@@ -240,8 +240,40 @@ These concepts are essential for:
 
 ---
 
+## 🔐 Module 13 — Build Your Cyber Security Career
+
+This module focuses on **foundational cybersecurity concepts, security principles, risk management, and defensive security models** that form the core mindset required for cybersecurity careers.
+
+### **Completed Rooms:**
+- [Security Principles](./Build-Your-Cyber-Security-Career/Build-Your-Cyber-Security-Career/Security-Principles.md)
+
+**Why this matters for SOC:**  
+SOC analysts and cybersecurity professionals must understand core security concepts and defensive models before handling real-world incidents and investigations.
+
+This module helps build understanding of:
+- CIA Triad
+- DAD Triad
+- Defence-in-Depth
+- Zero Trust
+- Threat vs Risk
+- Security models
+- Least privilege
+- Layered security architecture
+
+These concepts are essential for:
+- SOC Analyst Level 1
+- Security operations
+- Risk management
+- Threat modeling
+- Identity and access management
+- Defensive security architecture
+- Incident response planning
+- Governance and compliance
+
+---
+
 ## 🎯 Status
-✔ **Modules 1–12 Completed**
+✔ **Modules 1–13 Completed**
 
 ---
 
@@ -257,4 +289,6 @@ Continue with the remaining rooms in the **Cybersecurity 101** path to strengthe
 - Threat detection engineering
 - Malware investigation
 - Defensive tooling workflows
+- Security architecture concepts
+- Risk management practices
 - Real-world SOC analyst skills
