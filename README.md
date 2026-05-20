@@ -185,6 +185,7 @@ Below is the complete list of all modules for easy navigation:
  ---
 #### ⚔️ Module 10 — Defensive Security Tooling
 - [CyberChef: The Basics](./Cybersecurity-101/Defensive-Security-Tooling/CyberChef-The-Basics.md)
+- [CAPA: The Basics](./Cybersecurity-101/Defensive-Security-Tooling/CAPA-The-Basics.md)
 
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
