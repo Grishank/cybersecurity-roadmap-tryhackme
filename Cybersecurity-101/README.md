@@ -245,7 +245,7 @@ These concepts are essential for:
 This module focuses on **foundational cybersecurity concepts, security principles, risk management, and defensive security models** that form the core mindset required for cybersecurity careers.
 
 ### **Completed Rooms:**
-- [Security Principles](./Build-Your-Cyber-Security-Career/Build-Your-Cyber-Security-Career/Security-Principles.md)
+- [Security Principles](./Build-Your-Cyber-Security-Career/Security-Principles.md)
 
 **Why this matters for SOC:**  
 SOC analysts and cybersecurity professionals must understand core security concepts and defensive models before handling real-world incidents and investigations.
