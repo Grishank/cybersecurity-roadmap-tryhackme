@@ -194,6 +194,10 @@ Below is the complete list of all modules for easy navigation:
 - [Security Principles](./Cybersecurity-101/Build-Your-Cyber-Security-Career/Security-Principles.md)
 - [Training Impact on Teams](./Cybersecurity-101/Build-Your-Cyber-Security-Career/Training-Impact-on-Teams.md)
 
+ ---
+#### ⚔️ Module 14 — OWASP Top 10 (2025)
+- [OWASP Top 10 2025: IAAA Failures](./Cybersecurity-101/OWASP-Top-10-(2025)/OWASP-Top-10-2025-IAAA-Failures.md)
+
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
 - Individual room writeups include:
