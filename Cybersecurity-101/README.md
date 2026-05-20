@@ -242,14 +242,14 @@ These concepts are essential for:
 
 ## 🔐 Module 13 — Build Your Cyber Security Career
 
-This module focuses on **foundational cybersecurity concepts, security principles, risk management, and defensive security models** that form the core mindset required for cybersecurity careers.
+This module focuses on **foundational cybersecurity concepts, security principles, organizational security awareness, risk management, and defensive security models** that form the core mindset required for cybersecurity careers.
 
 ### **Completed Rooms:**
 - [Security Principles](./Build-Your-Cyber-Security-Career/Security-Principles.md)
 - [Training Impact on Teams](./Build-Your-Cyber-Security-Career/Training-Impact-on-Teams.md)
 
 **Why this matters for SOC:**  
-SOC analysts and cybersecurity professionals must understand core security concepts and defensive models before handling real-world incidents and investigations.
+SOC analysts and cybersecurity professionals must understand core security concepts, organizational security culture, and defensive models before handling real-world incidents and investigations.
 
 This module helps build understanding of:
 - CIA Triad
@@ -257,24 +257,48 @@ This module helps build understanding of:
 - Defence-in-Depth
 - Zero Trust
 - Threat vs Risk
+- Security awareness training
+- Organizational security culture
 - Security models
 - Least privilege
 - Layered security architecture
 
+---
+
+## 🌐 Module 14 — OWASP Top 10 (2025)
+
+This module focuses on **modern web application security risks, authentication weaknesses, access control vulnerabilities, and logging failures** based on the OWASP Top 10 (2025).
+
+### **Completed Rooms:**
+- [OWASP Top 10 2025: IAAA Failures](./OWASP-Top-10-2025/OWASP-Top-10-2025-IAAA-Failures.md)
+
+**Why this matters for SOC:**  
+SOC analysts frequently investigate web application attacks involving broken access control, authentication abuse, privilege escalation, and weak monitoring.
+
+This module helps build understanding of:
+- IAAA model
+- Broken Access Control
+- Authentication Failures
+- Logging & Alerting Failures
+- Session security
+- Access management
+- Accountability principles
+- Web application defense
+
 These concepts are essential for:
 - SOC Analyst Level 1
-- Security operations
-- Risk management
-- Threat modeling
+- Web application security monitoring
+- Threat detection engineering
+- SIEM investigations
+- Incident response
+- Authentication security
 - Identity and access management
-- Defensive security architecture
-- Incident response planning
-- Governance and compliance
+- Defensive web security analysis
 
 ---
 
 ## 🎯 Status
-✔ **Modules 1–13 Completed**
+✔ **Modules 1–14 Completed**
 
 ---
 
@@ -292,4 +316,6 @@ Continue with the remaining rooms in the **Cybersecurity 101** path to strengthe
 - Defensive tooling workflows
 - Security architecture concepts
 - Risk management practices
+- Access control security
+- Web attack detection
 - Real-world SOC analyst skills
