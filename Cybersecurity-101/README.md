@@ -246,6 +246,7 @@ This module focuses on **foundational cybersecurity concepts, security principle
 
 ### **Completed Rooms:**
 - [Security Principles](./Build-Your-Cyber-Security-Career/Security-Principles.md)
+- [Training Impact on Teams](./Build-Your-Cyber-Security-Career/Training-Impact-on-Teams.md)
 
 **Why this matters for SOC:**  
 SOC analysts and cybersecurity professionals must understand core security concepts and defensive models before handling real-world incidents and investigations.
