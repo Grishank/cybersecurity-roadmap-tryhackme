@@ -227,7 +227,7 @@ SOC teams benefit from trained employees who can:
 
 ---
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/Training-Impact-on-Teams-badge.png?raw=true" alt="Training Impact on Teams Banner" width="900"/>
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/Trainin-Impact-on-Teams-badge.png?raw=true" alt="Training Impact on Teams Banner" width="900"/>
 </p>
 
 
