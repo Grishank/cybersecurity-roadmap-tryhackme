@@ -189,6 +189,10 @@ Below is the complete list of all modules for easy navigation:
 - [REMnux: Getting Started](./Cybersecurity-101/Defensive-Security-Tooling/REMnux-Getting-Started.md)
 - [FlareVM: Arsenal of Tools](./Cybersecurity-101/Defensive-Security-Tooling/FlareVM-Arsenal-of-Tools.md)
 
+ ---
+#### ⚔️ Module 13 — Build Your Cyber Security Career
+- [Security Principles](./Cybersecurity-101/Build-Your-Cyber-Security-Career/Security-Principles.md)
+
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
 - Individual room writeups include:
