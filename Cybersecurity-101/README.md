@@ -178,7 +178,7 @@ These are core skills required for:
 
 ## 🖥️ Module 11 — Security Solutions
 
-This module focuses on **security monitoring platforms, SIEM technologies, and centralized detection systems** used by SOC teams to detect and investigate cyber threats.
+This module focuses on **security monitoring platforms, SIEM technologies, defensive infrastructure, and centralized detection systems** used by SOC teams to detect and investigate cyber threats.
 
 ### **Completed Rooms:**
 - [Introduction to SIEM](./Security-Solutions/Introduction-to-SIEM.md)
@@ -186,9 +186,8 @@ This module focuses on **security monitoring platforms, SIEM technologies, and c
 - [IDS Fundamentals](./Security-Solutions/IDS-Fundamentals.md)
 - [Vulnerability Scanner Overview](./Security-Solutions/Vulnerability-Scanner-Overview.md)
 
-
 **Why this matters for SOC:**  
-SIEM platforms are one of the most important technologies used inside modern Security Operations Centers.
+SIEM platforms and defensive technologies are some of the most important systems used inside modern Security Operations Centers.
 
 This module helps build understanding of:
 - Centralized log collection
@@ -197,6 +196,8 @@ This module helps build understanding of:
 - Security monitoring workflows
 - Threat detection pipelines
 - Investigation and triage processes
+- Defensive network protection
+- Vulnerability management
 
 These concepts are essential for:
 - SOC Analyst Level 1
@@ -207,8 +208,36 @@ These concepts are essential for:
 
 ---
 
+## 🛠️ Module 12 — Defensive Security Tooling
+
+This module focuses on **practical defensive security tools used during investigations, monitoring, analysis, and threat detection workflows** inside SOC environments.
+
+### **Completed Rooms:**
+- [CyberChef: The Basics](./Defensive-Security-Tooling/CyberChef-The-Basics.md)
+
+**Why this matters for SOC:**  
+Defensive security analysts rely heavily on specialized tools to investigate suspicious activity and analyze malicious data efficiently.
+
+This module helps build understanding of:
+- Data decoding and transformation
+- Payload analysis
+- IOC extraction
+- Threat investigation workflows
+- Security data analysis
+- Malware and phishing investigation support
+
+These concepts are essential for:
+- SOC Analyst Level 1
+- Threat investigation workflows
+- Blue Team operations
+- Malware analysis support
+- Incident response analysis
+- Threat intelligence operations
+
+---
+
 ## 🎯 Status
-✔ **Modules 1–11 Completed**
+✔ **Modules 1–12 Completed**
 
 ---
 
@@ -222,4 +251,6 @@ Continue with the remaining rooms in the **Cybersecurity 101** path to strengthe
 - Web security analysis
 - SIEM operations
 - Threat detection engineering
+- Malware investigation
+- Defensive tooling workflows
 - Real-world SOC analyst skills
