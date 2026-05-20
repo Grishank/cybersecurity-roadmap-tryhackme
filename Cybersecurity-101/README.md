@@ -214,6 +214,7 @@ This module focuses on **practical defensive security tools used during investig
 
 ### **Completed Rooms:**
 - [CyberChef: The Basics](./Defensive-Security-Tooling/CyberChef-The-Basics.md)
+- [CAPA: The Basics](./Defensive-Security-Tooling/CAPA-The-Basics.md)
 
 **Why this matters for SOC:**  
 Defensive security analysts rely heavily on specialized tools to investigate suspicious activity and analyze malicious data efficiently.
