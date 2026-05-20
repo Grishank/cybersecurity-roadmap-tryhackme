@@ -217,6 +217,7 @@ This module focuses on **practical defensive security tools used during investig
 - [CyberChef: The Basics](./Defensive-Security-Tooling/CyberChef-The-Basics.md)
 - [CAPA: The Basics](./Defensive-Security-Tooling/CAPA-The-Basics.md)
 - [REMnux: Getting Started](./Defensive-Security-Tooling/REMnux-Getting-Started.md)
+- [FlareVM: Arsenal of Tools](./Defensive-Security-Tooling/FlareVM-Arsenal-of-Tools.md)
 
 **Why this matters for SOC:**  
 Defensive security analysts rely heavily on specialized tools to investigate suspicious activity and analyze malicious data efficiently.
