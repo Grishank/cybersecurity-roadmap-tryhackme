@@ -192,6 +192,7 @@ Below is the complete list of all modules for easy navigation:
  ---
 #### ⚔️ Module 13 — Build Your Cyber Security Career
 - [Security Principles](./Cybersecurity-101/Build-Your-Cyber-Security-Career/Security-Principles.md)
+- [Training Impact on Teams](./Cybersecurity-101/Build-Your-Cyber-Security-Career/Training-Impact-on-Teams.md)
 
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
