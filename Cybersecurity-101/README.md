@@ -125,9 +125,10 @@ This module introduces the foundations of **web applications, HTTP communication
 - [SQL Fundamentals](./Web-Hacking/SQL-Fundamentals.md)
 - [Burp Suite: The Basics](./Web-Hacking/Burp-Suite-The-Basics.md)
 
-**Why this matters for SOC:**  
+ Why this matters for SOC:
 Most modern attacks target web applications.  
 Understanding HTTP requests, responses, headers, cookies, and web traffic helps SOC analysts investigate phishing, web exploitation, malicious requests, authentication abuse, and suspicious web activity.
+
 ---
 
 ## ⚔️ Module 9 — Offensive Security Tooling
