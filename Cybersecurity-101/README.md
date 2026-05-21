@@ -1,7 +1,7 @@
 # 🔐 Cybersecurity 101 — TryHackMe Path
 
 <p align="center">
-  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/THM-Cybersecurity-101.pdf?raw=true" alt="Cybersecurity-101" width="900"/>
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/THM-Cybersecurity-101-1.png?raw=true" alt="Cybersecurity-101" width="900"/>
 </p>
 
 
