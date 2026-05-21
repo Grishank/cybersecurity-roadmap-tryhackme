@@ -1,5 +1,10 @@
 # 🔐 Cybersecurity 101 — TryHackMe Path
 
+<p align="center">
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/THM?raw=true" alt="Training Impact on Teams Banner" width="900"/>
+</p>
+
+
 This module contains all rooms completed from the **Cybersecurity 101** learning path on TryHackMe.  
 It focuses on building core foundations in cybersecurity, research skills, threat understanding, Windows/AD fundamentals, and practical hands-on investigation concepts.
 
