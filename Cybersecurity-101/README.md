@@ -271,6 +271,7 @@ This module focuses on **modern web application security risks, authentication w
 
 ### **Completed Rooms:**
 - [OWASP Top 10 2025: IAAA Failures](./OWASP-Top-10/OWASP-Top-10-2025-IAAA-Failures.md)
+- [OWASP Top 10 2025: Application Design Flaws](./OWASP-Top-10/OWASP-Top-10-2025-Application-Design-Flaws.md)
 
 **Why this matters for SOC:**  
 SOC analysts frequently investigate web application attacks involving broken access control, authentication abuse, privilege escalation, and weak monitoring.
