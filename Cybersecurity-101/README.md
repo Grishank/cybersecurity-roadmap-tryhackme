@@ -4,9 +4,28 @@
   <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/THM-Cybersecurity-101-1.png?raw=true" alt="Cybersecurity-101" width="900"/>
 </p>
 
+---
 
-This module contains all rooms completed from the **Cybersecurity 101** learning path on TryHackMe.  
-It focuses on building core foundations in cybersecurity, research skills, threat understanding, Windows/AD fundamentals, and practical hands-on investigation concepts.
+## 📖 About This Path
+
+This repository section contains all completed rooms from the **Cybersecurity 101** learning path on TryHackMe.
+
+The path focuses on building:
+- Core cybersecurity foundations
+- SOC analyst fundamentals
+- Threat investigation skills
+- Networking and web security knowledge
+- Malware analysis awareness
+- Defensive security operations
+- Security monitoring concepts
+- Secure architecture fundamentals
+
+The learning journey combines:
+- Theory
+- Hands-on labs
+- Investigation workflows
+- Blue Team concepts
+- Real-world defensive security scenarios
 
 ---
 
@@ -120,6 +139,8 @@ This module introduces **real-world vulnerabilities, exploitation techniques, an
 **Why this matters for SOC:**  
 Understanding how vulnerabilities are exploited allows SOC analysts to detect attacks, identify Indicators of Compromise (IoCs), and respond effectively to real-world threats.
 
+---
+
 ## 🌍 Module 8 — Web Hacking Fundamentals
 
 This module introduces the foundations of **web applications, HTTP communication, URLs, headers, and web security concepts** that are critical for both attackers and defenders.
@@ -130,7 +151,7 @@ This module introduces the foundations of **web applications, HTTP communication
 - [SQL Fundamentals](./Web-Hacking/SQL-Fundamentals.md)
 - [Burp Suite: The Basics](./Web-Hacking/Burp-Suite-The-Basics.md)
 
- Why this matters for SOC:
+**Why this matters for SOC:**  
 Most modern attacks target web applications.  
 Understanding HTTP requests, responses, headers, cookies, and web traffic helps SOC analysts investigate phishing, web exploitation, malicious requests, authentication abuse, and suspicious web activity.
 
@@ -179,7 +200,6 @@ These are core skills required for:
 - Incident response roles
 - Security monitoring careers
 
----
 ---
 
 ## 🖥️ Module 11 — Security Solutions
@@ -268,11 +288,23 @@ This module helps build understanding of:
 - Least privilege
 - Layered security architecture
 
+These concepts are essential for:
+- SOC Analyst Level 1
+- Security operations
+- Risk management
+- Threat modeling
+- Identity and access management
+- Defensive security architecture
+- Incident response planning
+- Governance and compliance
+- Security awareness initiatives
+- Enterprise security culture
+
 ---
 
 ## 🌐 Module 14 — OWASP Top 10 (2025)
 
-This module focuses on **modern web application security risks, authentication weaknesses, access control vulnerabilities, and logging failures** based on the OWASP Top 10 (2025).
+This module focuses on **modern web application security risks, authentication weaknesses, access control vulnerabilities, insecure design practices, and data handling failures** based on the OWASP Top 10 (2025).
 
 ### **Completed Rooms:**
 - [OWASP Top 10 2025: IAAA Failures](./OWASP-Top-10/OWASP-Top-10-2025-IAAA-Failures.md)
@@ -280,16 +312,20 @@ This module focuses on **modern web application security risks, authentication w
 - [OWASP Top 10 2025: Insecure Data Handling](./OWASP-Top-10/OWASP-Top-10-2025-Insecure-Data-Handling.md)
 
 **Why this matters for SOC:**  
-SOC analysts frequently investigate web application attacks involving broken access control, authentication abuse, privilege escalation, and weak monitoring.
+SOC analysts frequently investigate web application attacks involving broken access control, authentication abuse, injection attacks, insecure design flaws, privilege escalation, and weak monitoring.
 
 This module helps build understanding of:
 - IAAA model
 - Broken Access Control
 - Authentication Failures
 - Logging & Alerting Failures
+- Injection vulnerabilities
+- Cryptographic failures
+- Software integrity risks
 - Session security
 - Access management
 - Accountability principles
+- Secure application design
 - Web application defense
 
 These concepts are essential for:
@@ -301,28 +337,54 @@ These concepts are essential for:
 - Authentication security
 - Identity and access management
 - Defensive web security analysis
+- Secure architecture reviews
+- Vulnerability management
+
+---
+
+## 🏆 Path Completion Summary
+
+✔ Completed all 14 modules of the **Cybersecurity 101** path  
+✔ Built strong foundations in:
+- Networking
+- Linux & Windows
+- Active Directory
+- Cryptography
+- Web Security
+- Exploitation Basics
+- Defensive Security
+- SIEM & Monitoring
+- Malware Analysis
+- OWASP Top 10
+- Threat Investigation
+- Security Architecture
+- SOC Operations
+
+✔ Developed practical understanding of:
+- Security monitoring workflows
+- Incident response fundamentals
+- Authentication and access control
+- Threat detection concepts
+- Malware investigation tooling
+- Web application security risks
+- Security operations concepts
 
 ---
 
 ## 🎯 Status
-✔ **Modules 1–14 Completed**
+✔ **Cybersecurity 101 Path Completed**
 
 ---
 
 ## 🚀 Next Steps
-Continue with the remaining rooms in the **Cybersecurity 101** path to strengthen:
-- Detection and monitoring
-- Threat investigation
-- Incident response
-- Exploitation awareness
-- Authentication security
-- Web security analysis
-- SIEM operations
-- Threat detection engineering
-- Malware investigation
-- Defensive tooling workflows
-- Security architecture concepts
-- Risk management practices
-- Access control security
-- Web attack detection
-- Real-world SOC analyst skills
+Next focus areas in the cybersecurity journey:
+- SOC Level 1 Path
+- Advanced SIEM investigations
+- Threat hunting
+- Detection engineering
+- Malware analysis
+- DFIR fundamentals
+- Active Directory attacks & defense
+- Web application testing
+- Blue Team labs
+- Real-world SOC projects
