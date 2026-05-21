@@ -198,6 +198,7 @@ Below is the complete list of all modules for easy navigation:
 #### ⚔️ Module 14 — OWASP Top 10 (2025)
 - [OWASP Top 10 2025: IAAA Failures](./Cybersecurity-101/OWASP-Top-10/OWASP-Top-10-2025-IAAA-Failures.md)
 - [OWASP Top 10 2025: Application Design Flaws](./Cybersecurity-101/OWASP-Top-10/OWASP-Top-10-2025-Application-Design-Flaws.md)
+- [OWASP Top 10 2025: Insecure Data Handling](./Cybersecurity-101/OWASP-Top-10/OWASP-Top-10-2025-Insecure-Data-Handling.md)
 
 # 🔧 How to Navigate This Repository
 - Each folder contains a `README.md` with module notes.  
