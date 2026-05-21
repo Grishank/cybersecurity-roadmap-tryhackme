@@ -235,6 +235,9 @@ Blue Teams monitor for:
 - Defensive web security
 
 ---
+<p align="center">
+  <img src="https://github.com/Grishank/cybersecurity-roadmap-tryhackme/blob/main/assets/images/OWASP-Top-10-2025-Insecure-Data-Handling-badge.png?raw=true" alt="OWASP Top 10 2025 Insecure Data Handling Banner" width="900"/>
+</p>
 
 # 💬 Key Takeaway
 
